@@ -1,6 +1,6 @@
 # incase requirements fail. use sudo pip install -r requirements.txt
 
-Django==2.2.8
+Django==2.2.13
 django-filter==2.0.0
 django-password-reset==1.0
 django-rest-framework-temporary-tokens==0.1.5
